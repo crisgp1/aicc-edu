@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/cristiangp2001/aicc-edu#readme",
   "dependencies": {
+    "node": "^18.8.0",
+    "nodemon": "^2.0.19",
     "sass": "^1.54.6"
   }
 }
